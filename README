@@ -1,0 +1,6 @@
+Place the .organize file in a folder, and add the following lines:
+/regex/ => /copy/path
+/hello/ => /copy/path/hello
+/world.txt/ => /copy/path/world
+
+Then run this script on the folder.
